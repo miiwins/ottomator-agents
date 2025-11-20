@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 venv
 venv_linux
@@ -6,3 +7,20 @@ chroma_db
 .gradio
 .langgraph_api
 .vscode
+=======
+__pycache__
+prep
+.env
+.env.local
+chroma_db
+test.py
+data
+creds
+credentials
+credentials.json
+token.json
+node_modules
+venv
+venv2
+*.db
+>>>>>>> upstream/main
